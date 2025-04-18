@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.github.yjz.tools.popwindow.YjzWrapPopWindow;
+import com.github.yjz.widget.popwindow.YjzWrapPopWindow;
 
 
 public class MainActivity extends AppCompatActivity {
